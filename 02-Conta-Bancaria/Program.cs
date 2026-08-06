@@ -1,7 +1,4 @@
-﻿using System.ComponentModel;
-
-
-class program
+﻿class Program
 {
     static void Main(string [] args)
     {

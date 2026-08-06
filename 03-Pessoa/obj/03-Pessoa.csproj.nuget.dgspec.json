@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj": {}
+    "c:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj": {
+    "c:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj",
+        "projectUniqueName": "c:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj",
         "projectName": "03-Pessoa",
-        "projectPath": "C:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj",
+        "projectPath": "c:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\03-Pessoa.csproj",
         "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\obj\\",
+        "outputPath": "c:\\Users\\joaov\\Coding Shit\\lista-exercicios-programacao-avancada\\03-Pessoa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
