@@ -1,0 +1,15 @@
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\bin\Debug\net10.0\06-Lampada.exe
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\bin\Debug\net10.0\06-Lampada.deps.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\bin\Debug\net10.0\06-Lampada.runtimeconfig.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\bin\Debug\net10.0\06-Lampada.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\bin\Debug\net10.0\06-Lampada.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.AssemblyInfoInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.AssemblyInfo.cs
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.sourcelink.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\refint\06-Lampada.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\06-Lampada.genruntimeconfig.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\06-Lampada\obj\Debug\net10.0\ref\06-Lampada.dll
