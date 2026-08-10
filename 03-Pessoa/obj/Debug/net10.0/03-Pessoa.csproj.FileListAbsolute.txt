@@ -1,0 +1,15 @@
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\bin\Debug\net10.0\03-Pessoa.exe
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\bin\Debug\net10.0\03-Pessoa.deps.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\bin\Debug\net10.0\03-Pessoa.runtimeconfig.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\bin\Debug\net10.0\03-Pessoa.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\bin\Debug\net10.0\03-Pessoa.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.AssemblyInfoInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.AssemblyInfo.cs
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.sourcelink.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\refint\03-Pessoa.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\03-Pessoa.genruntimeconfig.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\03-Pessoa\obj\Debug\net10.0\ref\03-Pessoa.dll
