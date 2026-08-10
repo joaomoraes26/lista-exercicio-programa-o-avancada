@@ -1,0 +1,15 @@
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\bin\Debug\net10.0\02-Conta-Bancaria.exe
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\bin\Debug\net10.0\02-Conta-Bancaria.deps.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\bin\Debug\net10.0\02-Conta-Bancaria.runtimeconfig.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\bin\Debug\net10.0\02-Conta-Bancaria.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\bin\Debug\net10.0\02-Conta-Bancaria.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.AssemblyInfoInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.AssemblyInfo.cs
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.sourcelink.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\refint\02-Conta-Bancaria.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\02-Conta-Bancaria.genruntimeconfig.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\02-Conta-Bancaria\obj\Debug\net10.0\ref\02-Conta-Bancaria.dll
