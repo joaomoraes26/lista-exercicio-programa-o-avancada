@@ -1,0 +1,15 @@
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\bin\Debug\net10.0\05-Livro.exe
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\bin\Debug\net10.0\05-Livro.deps.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\bin\Debug\net10.0\05-Livro.runtimeconfig.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\bin\Debug\net10.0\05-Livro.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\bin\Debug\net10.0\05-Livro.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.AssemblyInfoInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.AssemblyInfo.cs
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.sourcelink.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\refint\05-Livro.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\05-Livro.genruntimeconfig.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\05-Livro\obj\Debug\net10.0\ref\05-Livro.dll
