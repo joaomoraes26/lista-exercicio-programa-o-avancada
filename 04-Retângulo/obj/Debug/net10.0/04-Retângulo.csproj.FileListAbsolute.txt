@@ -1,0 +1,15 @@
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\bin\Debug\net10.0\04-Retângulo.exe
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\bin\Debug\net10.0\04-Retângulo.deps.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\bin\Debug\net10.0\04-Retângulo.runtimeconfig.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\bin\Debug\net10.0\04-Retângulo.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\bin\Debug\net10.0\04-Retângulo.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.AssemblyInfoInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.AssemblyInfo.cs
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.sourcelink.json
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\refint\04-Retângulo.dll
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.pdb
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\04-Retângulo.genruntimeconfig.cache
+C:\Users\joaov\Coding Shit\lista-exercicios-programacao-avancada\04-Retângulo\obj\Debug\net10.0\ref\04-Retângulo.dll
