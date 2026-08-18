@@ -1,0 +1,15 @@
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\bin\Debug\net9.0\08-Atividade-17.exe
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\bin\Debug\net9.0\08-Atividade-17.deps.json
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\bin\Debug\net9.0\08-Atividade-17.runtimeconfig.json
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\bin\Debug\net9.0\08-Atividade-17.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\bin\Debug\net9.0\08-Atividade-17.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.AssemblyInfoInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.AssemblyInfo.cs
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.csproj.CoreCompileInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.sourcelink.json
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\refint\08-Atividade-17.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\08-Atividade-17.genruntimeconfig.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\PA - UCL - 2026-2\08-Atividade-17\obj\Debug\net9.0\ref\08-Atividade-17.dll
